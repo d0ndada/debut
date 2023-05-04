@@ -112,6 +112,15 @@
         "enable_video_looping": false
       }
     },
+    "78ad9bd6-2c50-404a-9ee6-cc7549f18ac6": {
+      "type": "rich-text",
+      "settings": {
+        "full_width": true,
+        "section_title": "Key Features:",
+        "text": "<p><\/p><ol><li><strong>6-Piece Bundle: <\/strong>Each purchase includes a bundle of 6 BreatheClear Pro Nasal Inhalers, offering added value and ensuring you always have relief at your fingertips.<\/li><li><strong>Fast-Acting Formula:<\/strong> The BreatheClear Pro Nasal Inhaler contains a powerful blend of natural essential oils, including eucalyptus, menthol, and camphor, to effectively alleviate nasal congestion and promote clear breathing in seconds.<\/li><li><strong>Portable and Discreet:<\/strong> The sleek, pocket-sized design makes it easy to carry with you wherever you go, ensuring you have access to instant relief whenever you need it.<\/li><li><strong>Simple and Safe to Use: <\/strong>Simply inhale through each nostril to experience the soothing benefits of BreatheClear Pro. The hygienic, individually sealed packaging ensures a fresh and clean experience every time.<\/li><li><strong>Long-Lasting Relief:<\/strong> BreatheClear Pro provides hours of continuous relief from nasal congestion and discomfort, allowing you to breathe easier throughout the day.<\/li><li><strong>Suitable for All Ages: <\/strong>Our gentle yet effective formula is safe for adults and children alike, making it a versatile solution for the whole family.<\/li><\/ol><p>Experience the difference with BreatheClear Pro Nasal Inhaler 8-Piece Bundle and rediscover the joy of effortless breathing. Say goodbye to nasal congestion and hello to a revitalized, invigorated you.<\/p>",
+        "text_size": "medium"
+      }
+    },
     "quotes": {
       "type": "quotes",
       "blocks": {
@@ -152,9 +161,10 @@
         "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/yomidagirl_a819bbc2-94ee-4db7-b76c-5a4e683ac97e.jpg",
             "alignment": "center center",
-            "slide_title": "Image slide",
-            "subheading": "Tell your brand's story through images",
+            "slide_title": "",
+            "subheading": "",
             "button_label": "",
             "button_link": ""
           }
@@ -162,9 +172,10 @@
         "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/14c5cf1bcef5b2da111c7eb203436812-600x600.jpg",
             "alignment": "center center",
-            "slide_title": "Image slide",
-            "subheading": "Tell your brand's story through images",
+            "slide_title": "",
+            "subheading": "",
             "button_label": "",
             "button_link": ""
           }
@@ -179,7 +190,7 @@
         "text_size": "medium",
         "text_alignment": "center center",
         "show_overlay": true,
-        "autorotate": false,
+        "autorotate": true,
         "autorotate_speed": 5
       }
     },
@@ -229,6 +240,7 @@
     "collection",
     "hero-2",
     "69d997b5-bccb-424c-b6c0-890d8a12ce5d",
+    "78ad9bd6-2c50-404a-9ee6-cc7549f18ac6",
     "quotes",
     "f8a0790b-aa8f-461b-91f9-dca2f75b7f8a",
     "image-bar"
