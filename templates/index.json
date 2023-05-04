@@ -88,12 +88,13 @@
     "hero-2": {
       "type": "hero",
       "settings": {
+        "image": "shopify:\/\/shop_images\/3.jpg",
         "alignment": "center",
         "hero_layout": "full_width",
         "hero_size": "medium",
         "text_size": "large",
-        "title": "Image with text overlay",
-        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "title": "",
+        "text": "",
         "button_label": "",
         "button_link": ""
       }
@@ -145,6 +146,43 @@
         "title": ""
       }
     },
+    "f8a0790b-aa8f-461b-91f9-dca2f75b7f8a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-0",
+        "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-1"
+      ],
+      "settings": {
+        "slideshow_height": "adapt",
+        "text_size": "medium",
+        "text_alignment": "center center",
+        "show_overlay": true,
+        "autorotate": false,
+        "autorotate_speed": 5
+      }
+    },
     "image-bar": {
       "type": "image-bar",
       "disabled": true,
@@ -182,43 +220,6 @@
       "settings": {
         "section_height": "medium"
       }
-    },
-    "f8a0790b-aa8f-461b-91f9-dca2f75b7f8a": {
-      "type": "slideshow",
-      "blocks": {
-        "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-0": {
-          "type": "image",
-          "settings": {
-            "alignment": "center center",
-            "slide_title": "Image slide",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-1": {
-          "type": "image",
-          "settings": {
-            "alignment": "center center",
-            "slide_title": "Image slide",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-0",
-        "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-1"
-      ],
-      "settings": {
-        "slideshow_height": "adapt",
-        "text_size": "medium",
-        "text_alignment": "center center",
-        "show_overlay": true,
-        "autorotate": false,
-        "autorotate_speed": 5
-      }
     }
   },
   "order": [
@@ -229,7 +230,7 @@
     "hero-2",
     "69d997b5-bccb-424c-b6c0-890d8a12ce5d",
     "quotes",
-    "image-bar",
-    "f8a0790b-aa8f-461b-91f9-dca2f75b7f8a"
+    "f8a0790b-aa8f-461b-91f9-dca2f75b7f8a",
+    "image-bar"
   ]
 }
