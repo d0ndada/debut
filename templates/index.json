@@ -3,7 +3,7 @@
     "hero-1": {
       "type": "hero",
       "custom_css": [
-        "p,h1 {color: RGBA(255, 248, 220, 1);}"
+        "p,h2 {color: RGBA(255, 248, 220, 1);}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/photo_2023-05-04_18-24-44.jpg",
