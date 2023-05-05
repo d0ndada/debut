@@ -73,18 +73,6 @@
         "align_text": "left"
       }
     },
-    "collection": {
-      "type": "collection",
-      "disabled": true,
-      "settings": {
-        "title": "Featured collection",
-        "collection": "",
-        "grid": 4,
-        "rows": 2,
-        "show_vendor": false,
-        "show_view_all": false
-      }
-    },
     "hero-2": {
       "type": "hero",
       "settings": {
@@ -237,7 +225,6 @@
     "hero-1",
     "feature-row",
     "feature-columns",
-    "collection",
     "hero-2",
     "69d997b5-bccb-424c-b6c0-890d8a12ce5d",
     "78ad9bd6-2c50-404a-9ee6-cc7549f18ac6",

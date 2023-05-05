@@ -11,7 +11,7 @@
         "settings": {
           "align_logo": "left",
           "logo_max_width": 250,
-          "main_linklist": "",
+          "main_linklist": "main-menu",
           "message": false,
           "home_page_only": true,
           "message_text": "Announce something here",
