@@ -129,15 +129,31 @@
         "quotes-2": {
           "type": "quote",
           "settings": {
-            "quote": "<p>\"Jag är så tacksam för att jag hittade BreatheClear Pro Nasal Inhalator. Den har gett mig snabb och långvarig lindring från min nästäppa orsakad av allergier. Den här produkten är helt fantastisk!\"<\/p>",
+            "quote": "<p><em>\"Jag är så tacksam för att jag hittade BreatheClear Pro Nasal Inhalator. Den har gett mig snabb och långvarig lindring från min nästäppa orsakad av allergier. Den här produkten är helt fantastisk!\"<\/em><\/p>",
             "author": "Johan Eriksson"
+          }
+        },
+        "4e199e57-6888-4a81-b593-b2729c7a9c77": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><em>\"Tack vare BreatheClear Pro har jag äntligen fått bukt med min nästäppa! Den är effektiv, snabb och lätt att använda. Rekommenderas varmt för alla som kämpar med allergier!\"<\/em><\/p>",
+            "author": "Sofia Lindström"
+          }
+        },
+        "82b6f5cb-08b2-400e-bb75-9beee464d9cb": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><em>\"BreatheClear Pro Nasal Inhaler has made a huge difference in my life. It clears congestion quickly, and I can finally breathe comfortably. A must-have for allergy sufferers!\"<\/em><\/p>",
+            "author": "Mark Johnson"
           }
         }
       },
       "block_order": [
         "quotes-0",
         "quotes-1",
-        "quotes-2"
+        "quotes-2",
+        "4e199e57-6888-4a81-b593-b2729c7a9c77",
+        "82b6f5cb-08b2-400e-bb75-9beee464d9cb"
       ],
       "settings": {
         "title": ""
