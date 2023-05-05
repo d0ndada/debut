@@ -28,51 +28,6 @@
         "button_link": ""
       }
     },
-    "feature-columns": {
-      "type": "feature-columns",
-      "disabled": true,
-      "blocks": {
-        "feature-columns-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "feature-columns-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "feature-columns-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "feature-columns-0",
-        "feature-columns-1",
-        "feature-columns-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "left"
-      }
-    },
     "hero-2": {
       "type": "hero",
       "settings": {
@@ -240,7 +195,6 @@
   "order": [
     "hero-1",
     "feature-row",
-    "feature-columns",
     "hero-2",
     "69d997b5-bccb-424c-b6c0-890d8a12ce5d",
     "78ad9bd6-2c50-404a-9ee6-cc7549f18ac6",

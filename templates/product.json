@@ -35,6 +35,12 @@
           "type": "share",
           "settings": {
           }
+        },
+        "f0a2a9d4-eeb5-44ce-b6a8-b12c5bb6ec5a": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -42,7 +48,8 @@
         "price",
         "buttons",
         "description",
-        "share"
+        "share",
+        "f0a2a9d4-eeb5-44ce-b6a8-b12c5bb6ec5a"
       ],
       "settings": {
         "show_quantity_selector": false,
