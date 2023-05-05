@@ -115,22 +115,22 @@
         "quotes-0": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "quote": "<p><em>\"Finding the BreatheClear Pro Nasal Inhaler was like a breath of fresh air for me! Allergy-induced congestion is no match for this powerful, portable relief. I'm so glad I found it!\"<\/em><\/p>",
+            "author": "Andrew Harrison"
           }
         },
         "quotes-1": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "quote": "<p><em>\"I'm so grateful I discovered the BreatheClear Pro Nasal Inhaler. It has provided me with fast and long-lasting relief from my nasal congestion caused by allergies. This product is absolutely amazing!\"<\/em><\/p>",
+            "author": "Karen Mitchell"
           }
         },
         "quotes-2": {
           "type": "quote",
           "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
+            "quote": "<p>\"Jag är så tacksam för att jag hittade BreatheClear Pro Nasal Inhalator. Den har gett mig snabb och långvarig lindring från min nästäppa orsakad av allergier. Den här produkten är helt fantastisk!\"<\/p>",
+            "author": "Johan Eriksson"
           }
         }
       },
