@@ -8,6 +8,10 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+          ".product-single__description {margin-top: -270px;}",
+          ".social-sharing {display: flex; margin-top: 171px;}"
+        ],
         "settings": {
           "align_logo": "left",
           "logo_max_width": 250,
