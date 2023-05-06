@@ -44,6 +44,9 @@
     },
     "69d997b5-bccb-424c-b6c0-890d8a12ce5d": {
       "type": "featured-product",
+      "custom_css": [
+        ".product-single_description rte {color: red;}"
+      ],
       "settings": {
         "featured_product": "breatheclear-pro-nasal-inhaler",
         "show_quantity_selector": true,
