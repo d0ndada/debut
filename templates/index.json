@@ -45,7 +45,9 @@
     "69d997b5-bccb-424c-b6c0-890d8a12ce5d": {
       "type": "featured-product",
       "custom_css": [
-        ".product-single_description rte {color: red;}"
+        ".product-single__description {margin-top: -301px;}",
+        ".social-sharing {display: flex; margin-top: 210px;}",
+        ".product-form--payment-button-no-variants {max-width: 25rem; margin-top: 42px;}"
       ],
       "settings": {
         "featured_product": "breatheclear-pro-nasal-inhaler",
