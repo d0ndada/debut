@@ -9,9 +9,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          ".product-single__description {margin-top: -270px;}",
-          ".social-sharing {display: flex; margin-top: 171px;}",
-          ".product-form__controls-group--submit {margin-top: 73px;}"
+
         ],
         "settings": {
           "align_logo": "left",
