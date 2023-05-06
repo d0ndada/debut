@@ -56,7 +56,6 @@
         ".product-single__description {margin-top: -343px; font-size: 15px;}",
         ".social-sharing {display: flex; margin-top: 245px;}",
         ".product-form--payment-button-no-variants {max-width: 25rem; margin-top: 70px;}",
-        "element.style {}",
         ".site-header__search-toggle {display: block; display: none;}"
       ],
       "settings": {
