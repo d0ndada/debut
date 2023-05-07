@@ -53,11 +53,12 @@
         "f0a2a9d4-eeb5-44ce-b6a8-b12c5bb6ec5a"
       ],
       "custom_css": [
-        ".product-single__description {margin-top: -356px; font-size: 15px;}",
+        ".product-single__description {margin-top: -374px; font-size: 15px;}",
         ".social-sharing {display: flex; margin-top: 245px;}",
         ".product-form--payment-button-no-variants {max-width: 25rem; margin-top: 70px;}",
         ".site-header__search-toggle {display: block; display: none;}",
-        ".product-form__controls-group ~ .product-form__controls-group--submit {margin-top: 34px;}"
+        ".product-form__controls-group ~ .product-form__controls-group--submit {margin-top: 49px;}",
+        ".shipping {margin-top: 109px;}"
       ],
       "settings": {
         "show_quantity_selector": true,
