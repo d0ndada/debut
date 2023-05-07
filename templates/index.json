@@ -45,10 +45,12 @@
     "69d997b5-bccb-424c-b6c0-890d8a12ce5d": {
       "type": "featured-product",
       "custom_css": [
-        ".product-single__description {margin-top: -343px; font-size: 15px;}",
+        ".product-single__description {margin-top: -374px; font-size: 15px;}",
         ".social-sharing {display: flex; margin-top: 245px;}",
         ".product-form--payment-button-no-variants {max-width: 25rem; margin-top: 70px;}",
-        ".site-header__search-toggle {display: block; display: none;}"
+        ".site-header__search-toggle {display: block; display: none;}",
+        ".product-form__controls-group ~ .product-form__controls-group--submit {margin-top: 49px;}",
+        ".shipping {margin-top: 109px;}"
       ],
       "settings": {
         "featured_product": "breatheclear-pro-nasal-inhaler",
