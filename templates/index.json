@@ -2,6 +2,9 @@
   "sections": {
     "dbe6cedb-6d92-498c-ad6d-43a7fc62c713": {
       "type": "video",
+      "custom_css": [
+        ".video-section-wrapper--medium.video-section-wrapper--min-height {min-height: 398px;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/photo_2023-05-11_13-30-32.jpg",
         "image_position": "center center",
