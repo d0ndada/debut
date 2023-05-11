@@ -198,6 +198,18 @@
       "settings": {
         "section_height": "medium"
       }
+    },
+    "dbe6cedb-6d92-498c-ad6d-43a7fc62c713": {
+      "type": "video",
+      "settings": {
+        "image_position": "center center",
+        "video_link": "https:\/\/youtu.be\/bnOTvemiOOM",
+        "show_overlay": true,
+        "style": "image_with_play",
+        "height": "medium",
+        "video_title": "",
+        "text_size": "medium"
+      }
     }
   },
   "order": [
@@ -208,6 +220,7 @@
     "78ad9bd6-2c50-404a-9ee6-cc7549f18ac6",
     "quotes",
     "f8a0790b-aa8f-461b-91f9-dca2f75b7f8a",
-    "image-bar"
+    "image-bar",
+    "dbe6cedb-6d92-498c-ad6d-43a7fc62c713"
   ]
 }
