@@ -1,5 +1,18 @@
 {
   "sections": {
+    "dbe6cedb-6d92-498c-ad6d-43a7fc62c713": {
+      "type": "video",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/photo_2023-05-11_13-30-32.jpg",
+        "image_position": "center center",
+        "video_link": "https:\/\/youtu.be\/bnOTvemiOOM",
+        "show_overlay": true,
+        "style": "image_with_play",
+        "height": "medium",
+        "video_title": "",
+        "text_size": "medium"
+      }
+    },
     "hero-1": {
       "type": "hero",
       "custom_css": [
@@ -124,6 +137,7 @@
     },
     "f8a0790b-aa8f-461b-91f9-dca2f75b7f8a": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--18901326889309__f8a0790b-aa8f-461b-91f9-dca2f75b7f8a-1683216648abd98cb7-0": {
           "type": "image",
@@ -198,22 +212,10 @@
       "settings": {
         "section_height": "medium"
       }
-    },
-    "dbe6cedb-6d92-498c-ad6d-43a7fc62c713": {
-      "type": "video",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/photo_2023-05-11_13-30-32.jpg",
-        "image_position": "center center",
-        "video_link": "https:\/\/youtu.be\/bnOTvemiOOM",
-        "show_overlay": true,
-        "style": "image_with_play",
-        "height": "medium",
-        "video_title": "",
-        "text_size": "medium"
-      }
     }
   },
   "order": [
+    "dbe6cedb-6d92-498c-ad6d-43a7fc62c713",
     "hero-1",
     "feature-row",
     "hero-2",
@@ -221,7 +223,6 @@
     "78ad9bd6-2c50-404a-9ee6-cc7549f18ac6",
     "quotes",
     "f8a0790b-aa8f-461b-91f9-dca2f75b7f8a",
-    "image-bar",
-    "dbe6cedb-6d92-498c-ad6d-43a7fc62c713"
+    "image-bar"
   ]
 }
