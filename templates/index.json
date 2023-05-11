@@ -202,6 +202,7 @@
     "dbe6cedb-6d92-498c-ad6d-43a7fc62c713": {
       "type": "video",
       "settings": {
+        "image": "shopify:\/\/shop_images\/photo_2023-05-11_13-30-32.jpg",
         "image_position": "center center",
         "video_link": "https:\/\/youtu.be\/bnOTvemiOOM",
         "show_overlay": true,
