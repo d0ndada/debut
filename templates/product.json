@@ -58,7 +58,7 @@
         ".product-form--payment-button-no-variants {max-width: 25rem; margin-top: 70px;}",
         ".site-header__search-toggle {display: block; display: none;}",
         ".product-form__controls-group ~ .product-form__controls-group--submit {margin-top: 49px;}",
-        ".shipping {margin-top: 109px;}"
+        ".shipping {margin-top: 120px;}"
       ],
       "settings": {
         "show_quantity_selector": true,
